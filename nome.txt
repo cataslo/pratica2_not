@@ -1,0 +1,4 @@
+sincronizar com github
+
+git add -all
+git add .
